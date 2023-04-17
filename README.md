@@ -1,5 +1,7 @@
 # Sales-Analysis---Analysis-and-Visualization-uing-Excel-and-power-BI
-Sales Analysis.
+Sales Analysis using Excel and Power BI
+
+
 This is a Beginner level Data Analysis work on Actual sales and Target sales of a Chocolate company.
 
 The steps followed to complete :
